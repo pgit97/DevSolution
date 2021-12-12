@@ -25,7 +25,7 @@ const Home=()=>{
 
 
         <div className="col-sm-4">
-            <img src={img2} alt="image" style={{width:'330px'  }}></img>
+            <img src={img2} alt="" style={{width:'330px'}}></img>
         </div> 
    
 
